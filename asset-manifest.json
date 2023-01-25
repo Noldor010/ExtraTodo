@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/ExtraTodo/static/css/main.624afcc7.css",
+    "main.js": "/ExtraTodo/static/js/main.2f91d652.js",
+    "index.html": "/ExtraTodo/index.html",
+    "main.624afcc7.css.map": "/ExtraTodo/static/css/main.624afcc7.css.map",
+    "main.2f91d652.js.map": "/ExtraTodo/static/js/main.2f91d652.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.624afcc7.css",
+    "static/js/main.2f91d652.js"
+  ]
+}
